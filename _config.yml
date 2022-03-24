@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This blog will document my experiences with OpenScience Communities
   that I engage with throughout the first half of 2022 as tasked by 
   the Uni course "Social thinking in Computer Science".
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/stcs-blog" # the subpath of your site, e.g. /blog
 url: "https://ryepenchi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  ""
