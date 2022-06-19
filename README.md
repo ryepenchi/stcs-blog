@@ -1,5 +1,7 @@
 # SOCIAL THINKING IN COMPUTEr SCIENCE :computer: :thinking:
 
+![GitHub CI](https://github.com/ryepenchi/stcs-blog/actions/workflows/jekyll.yml/badge.svg)
+
 ***My personal blog for the Social Thinking in Computer Science blog.***
 
 ## HI! :smile:
